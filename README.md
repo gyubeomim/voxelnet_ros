@@ -11,6 +11,9 @@ VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
   - unfortunately, `rosrun voxelnet_ros voxelnet_ros.py` because it's using Python 3.x instead of 2.x
   
 ### ROS Node 
+- Subscribe `velodyne_points`
+- Publish `voxelnet_arr_bbox` 
+- Other Publishers are for testing
 <img src="./pictures/voxelnet_ros_node.PNG" />
 
 ### Rviz Animation
