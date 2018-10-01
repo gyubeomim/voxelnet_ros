@@ -13,5 +13,11 @@ VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 ### ROS Node 
 <img src="./pictures/voxelnet_ros_node.PNG" />
 
-### Animation
+### Rviz Animation
 <img src="./pictures/voxelnet_ros.gif" />
+
+
+
+### Future Work
+- Not yet
+- If you face any kind of bugs or issues while using it, Post it on Issues! Thank you
