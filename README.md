@@ -4,7 +4,7 @@ VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 
 #### Instructions
 - clone this repository
-- move voxelnet folder to your `catkin_ws`
+- move voxelnet_ros folder to your `catkin_ws`
 - `catkin_make`
 - `roscd voxelnet/script/`
 - `python3 voxelnet_ros.py`
