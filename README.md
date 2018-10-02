@@ -22,5 +22,5 @@ VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 
 
 ### Future Work
-- Not yet
+- TBD
 - If you face any kind of bugs or issues while using it, Post it on Issues! Thank you
