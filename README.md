@@ -8,7 +8,7 @@ VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 - `catkin_make`
 - `roscd voxelnet/script/`
 - `python3 voxelnet_ros.py`
-  - unfortunately, `rosrun voxelnet_ros voxelnet_ros.py` because it's using Python 3.x instead of 2.x
+  - unfortunately, `rosrun voxelnet_ros voxelnet_ros.py` won't work. because it's using Python 3.x instead of 2.x
   
 ### ROS Node 
 - Subscribe `velodyne_points`
